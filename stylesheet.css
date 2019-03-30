@@ -70,11 +70,7 @@
 }
 
 .pay-bills:hover {
-<<<<<<< HEAD
 	background-color: blue;
-=======
-	background-color: blue
->>>>>>> 3d6bf7633ba7617e3eee38b18f062fa35edad507
 }
 
 .clickable {
@@ -85,7 +81,6 @@
 	left: 50px;
 }
 
-<<<<<<< HEAD
 .upload {
 	width: 443px;
 	height: 114px;
@@ -102,15 +97,9 @@
 	left: 967px;
 }
 
-=======
->>>>>>> 3d6bf7633ba7617e3eee38b18f062fa35edad507
 a.fill-div {
 	display: block;
     height: 100%;
     width: 100%;
     text-decoration: none;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 3d6bf7633ba7617e3eee38b18f062fa35edad507
