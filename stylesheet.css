@@ -14,13 +14,12 @@
 	background-color: transparent;
 	border: none;	
 	text-align: center;
-	border-radius: 30px;
 	cursor: pointer;
-	height: 80px;
-	width: 400px;
+	height: 45px;
+	width: 165px;
 	position: absolute;
-	left: 150px;
-	bottom: -75px;
+	left: 120px;
+	bottom: 162px;
   }
 
 
@@ -37,13 +36,12 @@
 	background-color: transparent;
 	border: none;	
 	text-align: center;
-	border-radius: 30px;
 	cursor: pointer;
-	height: 80px;
-	width: 400px;
+	height: 45px;
+	width: 169px;
 	position: absolute;
-	left: 720px;
-	bottom: -75px;
+	left: 306px;
+	bottom: 162px;
 }
 
 .pay-bills {
@@ -56,21 +54,15 @@
 	font-family: "Gilroy-ExtraBold";
 	font-size: 14pt;
 	background-color: transparent;
-	border: 0.5px solid black;
-	border-radius: 8px;
 	text-align: center;
 	cursor: pointer;
-	height: 60px;
-	width: 250px;
+	height: 50px;
+	width: 255px;
 	position: absolute;
-	left: 520px;
-	bottom: 0px;
-	background-color: #6759CB;
+	left: 469px;
+	bottom: 11px;
 	color: white;
-}
-
-.pay-bills:hover {
-	background-color: blue;
+	border: none;
 }
 
 .clickable {
