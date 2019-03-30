@@ -10,16 +10,15 @@
 	transition-duration: 0.4s;
 	user-select: none; /* Standard */
 	font-family: "Open Sans", sans-serif;
-	font-size: 14pt;
 	background-color: transparent;
 	border: none;	
 	text-align: center;
 	cursor: pointer;
-	height: 45px;
-	width: 165px;
+	height: 60px;
+	width: 225px;
 	position: absolute;
-	left: 120px;
-	bottom: 162px;
+	left: 160px;
+	bottom: 218px;
   }
 
 
@@ -37,11 +36,11 @@
 	border: none;	
 	text-align: center;
 	cursor: pointer;
-	height: 45px;
-	width: 169px;
+	height: 60px;
+	width: 225px;
 	position: absolute;
-	left: 306px;
-	bottom: 162px;
+	left: 408px;
+	bottom: 218px;
 }
 
 .pay-bills {
@@ -56,10 +55,10 @@
 	background-color: transparent;
 	text-align: center;
 	cursor: pointer;
-	height: 50px;
-	width: 255px;
+	height: 80px;
+	width: 350px;
 	position: absolute;
-	left: 469px;
+	left: 620px;
 	bottom: 11px;
 	color: white;
 	border: none;
@@ -69,24 +68,26 @@
 	width: 200px;
 	height: 80px;
 	position: absolute;
-	top: 30px;
-	left: 50px;
+	top: 42px;
+	left: 60px;
 }
 
 .upload {
-	width: 443px;
-	height: 114px;
+	width: 375px;
+	height: 84px;
 	position: absolute;
-	top: 238px;
-	left: 490px;
+	top: 275px;
+	left: 580px;
+	background-color: transparent;
 }
 
-.use-template {
-	width: 443px;
-	height: 114px;
+.choose {
+	width: 170px;
+	height: 50px;
 	position: absolute;
-	top: 238px;
-	left: 967px;
+	bottom: -15px;
+	right: 240px;
+	background-color: transparent;
 }
 
 a.fill-div {
